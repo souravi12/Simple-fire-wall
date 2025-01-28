@@ -1,7 +1,7 @@
 Firelite
 
 Introduction
-The Simple Java Firewall is a basic IP-based firewall application created in Java. It listens on a specified port (default: 8080) and controls access by allowing or blocking connections based on a predefined list of IP addresses. This project demonstrates how to implement a basic firewall using Java sockets, providing a foundation for learning network security concepts in Java.
+The Firelite is a basic IP-based firewall application created in Java. It listens on a specified port (default: 8080) and controls access by allowing or blocking connections based on a predefined list of IP addresses. This project demonstrates how to implement a basic firewall using Java sockets, providing a foundation for learning network security concepts in Java.
 
 Features
 - IP Filtering: Accepts or blocks incoming connections based on configured IP addresses.
